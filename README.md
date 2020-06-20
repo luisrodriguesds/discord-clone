@@ -4,7 +4,7 @@
 
 <hr>
 
-![alt](http://luisrodriguesdev.epizy.com/images/discord.jpg)
+![alt](https://raw.github.com/luisrodriguesds/discord-clone/master/assets/discord.jpg)
 ## Techs
 
 - [x] React.js
