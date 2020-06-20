@@ -4,8 +4,7 @@
 
 <hr>
 
-<img src="http://luisrodriguesdev.epizy.com/images/discord.jpg" />
-
+![alt](http://luisrodriguesdev.epizy.com/images/discord.jpg)
 ## Techs
 
 - [x] React.js
