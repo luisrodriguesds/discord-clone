@@ -4,7 +4,7 @@
 
 <hr>
 
-![alt](https://raw.github.com/luisrodriguesds/discord-clone/master/assets/discord.jpg)
+![alt](https://raw.github.com/luisrodriguesds/discord-clone/master/src/assets/discord.jpg)
 ## Techs
 
 - [x] React.js
